@@ -1,0 +1,25 @@
+<resources>
+    <string name="txt_titulo">Cajero automatico</string>
+    <string name="app_name">Manejo_de_activitys</string>
+    <string name="txt_usser">Ingrese usuario</string>
+    <string name="txt_pass">Ingrese contraseña</string>
+    <string name="btn_validar">Validar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="btn_saldo">Consultar saldo</string>
+    <string name="btn_deposito">Depositar efectivo</string>
+    <string name="btn_retiro">Retirar efectivo</string>
+    <string name="tb_saldo">Saldo actual</string>
+    <string name="txt_saldo">Su saldo actual es:</string>
+    <string name="txt_saldo_2">$</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="txt_otro">Otro valor...</string>
+    <string name="txt_deposito">Seleccione cantidad a depositar</string>
+    <string name="txt_retiro">Seleccione cantidad a retirar</string>
+    <string name="tv_primero">50.000</string>
+    <string name="tv_segundo">100.000</string>
+    <string name="tv_tercero">200.000</string>
+    <string name="tv_cuarto">500.000</string>
+    <string name="tv_quinto">1.000.000</string>
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Definición del estilo base para toda la aplicación -->
+    <style name="hola" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#FF86F9</item>
+        <!-- Configuración del color de la barra de estado -->
+        <item name="android:textColorPrimary">@color/white</item>
+
+    </style>
+
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <!-- Ajustes específicos para los botones -->
+        <item name="android:background">#FF0000</item> <!-- Color de fondo -->
+        <item name="android:textColor">#000000</item> <!-- Color del texto -->
+        <!-- Otros atributos si los necesitas -->
+    </style>
+
+
+
+</resources>
